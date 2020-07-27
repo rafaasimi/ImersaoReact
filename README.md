@@ -10,6 +10,20 @@
 <h3>🔖 Descrição</h3>
 <p>Criação do AluraFlix, app web utilizando React na semana da #ImersãoReact da Alura.<p>
 
+<h3>ℹ️ Como usar</h3>
+```bash
+# Clone esse repositório
+$ git clone https://github.com/rafaasimi/ImersaoGameDev.git
+
+# Instalar dependências
+$ npm install
+
+# Execute
+& npm start
+```
+
+<h3>🖼 Layout</h3>
+<img src="./src/assets/img/Layout.png">
 
 <h3>📝 Licença</h3>
 <p>O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href='LICENSE'>license<a>.</p>
