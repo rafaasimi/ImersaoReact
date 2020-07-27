@@ -1,5 +1,5 @@
-<p align='center'><img width='200' src="/images/stormtrooper.png"/></p>
-<h1 align='center'>AluraFlix - #ImersãoReact</h1>
+<p align='center'><img width='200' src="./src/assets/img/Logo.png"/></p>
+<h1 align='center'>RafaFlix - #ImersaoReact</h1>
 
 <p align='center'>
 <img src="https://img.shields.io/github/repo-size/rafaasimi/ImersaoReact">

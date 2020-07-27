@@ -1,123 +1,179 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Counter-Strike",
+      "link": "https://www.youtube.com/playlist?list=PL7xLHJBhkqyXmC8RCFLdOzlIkK4Xfqbip",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Highlights de Counter-Strike: Global Offensive",
+        "url": "https://www.youtube.com/playlist?list=PL7xLHJBhkqyXmC8RCFLdOzlIkK4Xfqbip"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Fragmovie #1 | Counter-Strike: Global Offensive",
+          "url": "https://youtu.be/Qyh0kf9fCYo"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Fragmovie #2 | Counter-Strike: Global Offensive",
+          "url": "https://youtu.be/rrUCfUaVV88"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Fragmovie #3 | Counter-Strike: Global Offensive",
+          "url": "https://youtu.be/mScDCiw2zEQ"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Fragmovie #4 | Counter-Strike: Global Offensive",
+          "url": "https://youtu.be/0GjFIJSMxAQ"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Fragmovie #5 | Counter-Strike: Global Offensive",
+          "url": "https://youtu.be/blQUlM8CRns"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Fragmovie #6 | Counter-Strike: Global Offensive",
+          "url": "https://youtu.be/fY9ECs-K5l8"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Fragmovie #7 | Counter-Strike: Global Offensive",
+          "url": "https://youtu.be/8R3VIbnT9Kc"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Fragmovie #8 | Counter-Strike: Global Offensive",
+          "url": "https://youtu.be/kVRkhahoPWI"
+        },
+        {
+          "titulo": "Fragmovie #9 | Counter-Strike: Global Offensive",
+          "url": "https://youtu.be/W9gljZ7Ie_w"
+        }         
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Rainbow Six: Siege",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Highlights de Rainbow Six: Siege",
+        "url": "https://www.youtube.com/playlist?list=PL7xLHJBhkqyVFZx_3NoNiLBN8TuIEojc0"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Highlights #1 | Rainbow Six: Siege",
+          "url": "https://youtu.be/sAHuc-F7r2k"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Highlights #d | Rainbow Six: Siege",
+          "url": "https://youtu.be/YSeq1isWZDg"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Highlights #3 | Rainbow Six: Siege",
+          "url": "https://youtu.be/b4cRsmTgHlg"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+          "titulo": "Highlights #4 | Rainbow Six: Siege",
+          "url": "https://youtu.be/4i6l0sF8z2I"
+        },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Highlights #5 | Rainbow Six: Siege",
+          "url": "https://youtu.be/9YEnTveay5w"
+        },
+        {
+          "titulo": "Highlights #6 | Rainbow Six: Siege",
+          "url": "https://youtu.be/YrtCmk7iWUk"
+        },
+        {
+          "titulo": "Highlights #7 | Rainbow Six: Siege",
+          "url": "https://youtu.be/upd_Jb5BXU8"
+        },
+        {
+          "titulo": "Highlights #8 | Rainbow Six: Siege",
+          "url": "https://youtu.be/p4DGRiIAuTU"
+        },
+        {
+          "titulo": "Highlights #9 | Rainbow Six: Siege",
+          "url": "https://youtu.be/ASdsGpL247Q"
+        },
+        {
+          "titulo": "Highlights #10 | Rainbow Six: Siege",
+          "url": "https://youtu.be/zL2AVhl1-1Y"
+        },
+        {
+          "titulo": "Highlights #11 | Rainbow Six: Siege",
+          "url": "https://youtu.be/WVMeYd31-BI"
+        },
+        {
+          "titulo": "Highlights #12 | Rainbow Six: Siege",
+          "url": "https://youtu.be/QSdqfZ8XYKo"
+        },
+        {
+          "titulo": "Highlights #13 - QUE BALINHA?! | Rainbow Six: Siege",
+          "url": "https://youtu.be/JYAqsCFgCT0"
+        },
+        {
+          "titulo": "Highlights #14 | Rainbow Six: Siege",
+          "url": "https://youtu.be/_nZGZLuKkD8"
+        },
+        {
+          "titulo": "Highlights #15 | Rainbow Six: Siege",
+          "url": "https://youtu.be/52QBDaX4Aoc"
+        },
+        {
+          "titulo": "Highlights #16 | Rainbow Six: Siege",
+          "url": "https://youtu.be/xBEXn2Mg_Ts"
+        },
+        {
+          "titulo": "Highlights #17 | Rainbow Six: Siege",
+          "url": "https://youtu.be/DTgxuIUCRUA"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Canais recomendados",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Canais recomendados",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Rafaasimi",
+          "url": "https://www.youtube.com/watch?v=Si3gAlJCx1Q"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Dev Soutinho",
+          "url": "https://www.youtube.com/watch?v=yMRSDdifGW8&t=480s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "CollabCode",
+          "url": "https://youtu.be/2WKH-eRJ2O0"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Filipe Deschamps",
+          "url": "https://youtu.be/FCC2GbStmfc"
         }
       ]
     },
     {
       "titulo": "Filmes",
       "cor": "orange",
+      "link_extra": {
+        "text": "Filmes para maratonar",
+        "url": "https://www.youtube.com"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Transformers",
+          "url": "https://youtu.be/knEh6uiJM8A"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Harry Potter",
+          "url": "https://youtu.be/uvGLD_G-U_A"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Star Wars",
+          "url": "https://youtu.be/MU4KRmJ7Yl0"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "A Rede Social",
+          "url": "https://youtu.be/WjDAnVx0a6A"
         }
       ]
     },
@@ -125,59 +181,17 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Jogos que gosto",
+        "url": "https://www.youtube.com/channel/UCtVEzK9cgWBgyuc7jzeMu6A"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Battlefield 4",
+          "url": "https://youtu.be/g42TO1eIeMo"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "GTA V",
+          "url": "https://youtu.be/iYG4tPcyufs"
         }
       ]
     }
