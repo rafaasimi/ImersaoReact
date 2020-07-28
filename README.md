@@ -9,9 +9,13 @@
 <h3>🔖 Descrição</h3>
 <p>Criação do AluraFlix, app web utilizando React na semana da #ImersãoReact da Alura.<p>
 
-REACT
-REACT ROUTE
-REACT SLICK
+
+<h3>🚀 Tecnologias</h3>
+<ul>
+    <li><a href="https://reactjs.org/" target="_blank">React</a></li>
+    <li><a href="https://reactrouter.com/" target="_blank">React Route</a></li>
+    <li><a href="https://react-slick.neostack.com/" target="_blank">React Slick</a></li>
+</ul>
 
 <h3>ℹ️ Como usar</h3>
 
