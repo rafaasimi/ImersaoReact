@@ -9,6 +9,10 @@
 <h3>🔖 Descrição</h3>
 <p>Criação do AluraFlix, app web utilizando React na semana da #ImersãoReact da Alura.<p>
 
+REACT
+REACT ROUTE
+REACT SLICK
+
 <h3>ℹ️ Como usar</h3>
 
     # Clone esse repositório
