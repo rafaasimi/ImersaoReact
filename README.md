@@ -15,6 +15,7 @@
     <li><a href="https://reactjs.org/" target="_blank">React</a></li>
     <li><a href="https://reactrouter.com/" target="_blank">React Route</a></li>
     <li><a href="https://react-slick.neostack.com/" target="_blank">React Slick</a></li>
+    <li><a href="https://github.com/typicode/json-server" target="_blank">JSON Server</a></li>
 </ul>
 
 <h3>ℹ️ Como usar</h3>
