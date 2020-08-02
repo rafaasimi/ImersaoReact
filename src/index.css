@@ -4,8 +4,7 @@
 }
 
 :root {
-  --primary: #00B0FF;
-  --secondary: #008dce;
+  --primary: #00B1FF;
   --black: #000000;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
@@ -23,31 +22,10 @@ body {
 
 a {
   color: inherit;
-}
+} 
 
 #root {
   min-height: calc(100vh - var(--bodyPaddingTop));
   display: flex;
   flex-direction: column;
-
-}
-
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: var(--black); 
-}
- 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: var(--primary);
-  border-radius: 4px;
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: var(--secondary); 
 }

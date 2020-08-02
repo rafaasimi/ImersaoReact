@@ -1,16 +1,108 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "nome": "Front End",
-            "descricao": "Uma categoria bacanuda",
-            "cor": "#CBD1FF"
-        },
-        {
-            "id": 2,
-            "nome": "Back End End",
-            "descricao": "Outra categoria bacanuda",
-            "cor": "#CBD1FF"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 2,
+      "titulo": "Alura",
+      "descricao": "Canal da Alura Cursos Online",
+      "cor": "#F9F9F9"
+    },
+    {
+      "id": 3,
+      "titulo": "Origamid",
+      "descricao": "Canal da Origamid",
+      "cor": "#693BB7"
+    },
+    {
+      "id": 4,
+      "titulo": "Curso em Video",
+      "descricao": "Uma categoria dos filmes de desenho infantil.",
+      "cor": "#9cd33b"
+    }
+  ],
+  "videos": [
+    {
+      "id": 2,
+      "categoriaId": 2,
+      "titulo": "4 dicas simples para entrevistas de tecnologia",
+      "url": "https://youtu.be/frsYDnKnwPc"
+    },
+    {
+      "id": 3,
+      "categoriaId": 2,
+      "titulo": "Conhecendo a classe Number do Kotlin",
+      "url": "https://youtu.be/ntI_23QeLDs"
+    },
+    {
+      "id": 4,
+      "categoriaId": 2,
+      "titulo": "Imersão React Live #01 - Analisando o front-end do Netflix, do Spotify e do Ifood",
+      "url": "https://youtu.be/Dcn-tVmSxyU"
+    },
+    {
+      "id": 5,
+      "categoriaId": 2,
+      "titulo": "Imersão React Live #02 - TypeScript no nosso projeto React, com Lucas Santos da Microsoft",
+      "url": "https://youtu.be/SpWFDTvgS9k"
+    },
+    {
+      "id": 6,
+      "categoriaId": 2,
+      "titulo": "Imersão GameDev Live #2",
+      "url": "https://youtu.be/vmN3lBVhu74"
+    },
+    {
+      "id": 7,
+      "categoriaId": 3,
+      "titulo": "Curso de Adobe XD - Introdução Aula 1",
+      "url": "https://youtu.be/nl-Is79eyD8"
+    },
+    {
+      "id": 8,
+      "categoriaId": 3,
+      "titulo": "Curso de Adobe XD - Instalação Aula 2",
+      "url": "https://youtu.be/HT9OeKJNux8"
+    },
+    {
+      "id": 9,
+      "categoriaId": 3,
+      "titulo": "Curso de Adobe XD - Artboard Aula 3",
+      "url": "https://youtu.be/NqvEi-0eVsg"
+    },
+    {
+      "id": 10,
+      "categoriaId": 3,
+      "titulo": "Curso de Adobe XD - Formas Aula 4",
+      "url": "https://youtu.be/Ddl4tD4cHWI"
+    },
+    {
+      "id": 11,
+      "categoriaId": 3,
+      "titulo": "Curso de Adobe XD - Tipografia Aula 5",
+      "url": "https://youtu.be/dMO42uzmXvQ"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "Curso de Adobe XD - Cores Aula 6",
+      "url": "https://youtu.be/jXQ7z7YB4qE"
+    },
+    {
+      "id": 13,
+      "categoriaId": 4,
+      "titulo": "Curso GRÁTIS de Loja Virtual com WooCommerce + WordPress",
+      "url": "https://youtu.be/ZcQ5WDUUB0o"
+    },
+    {
+      "id": 14,
+      "categoriaId": 4,
+      "titulo": "O que é Git? O que é versionamento? - Curso de Git e GitHub",
+      "url": "https://youtu.be/xEKo29OWILE"
+    },
+    {
+      "id": 15,
+      "categoriaId": 4,
+      "titulo": "Início do Módulo 2: Segurança, performance e recursos avançados",
+      "url": "https://youtu.be/Va3TmncZPlk"
+    }
+  ]
 }

@@ -1,25 +1,11 @@
-import styled from "styled-components"
+import React from 'react';
 
-const Button = styled.button`
-    background-color: #00B1FF;
-    color: var(--white);
-    border: 1px solid #00B1FF;
-    box-sizing: border-box;
-    cursor: pointer;
-    padding: 16px 24px;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 16px;
-    outline: none;
-    border-radius: 5px;
-    text-decoration: none;
-    display: inline-block;
-    transition: opacity .3s;
+function ButtonLink (props) {
+    return (
+        <a href={props.href} className={props.className} >
+            {props.children}
+        </a>
+    )
+}
 
-    &:hover,
-    &:focus {
-    opacity: .5;
-    }
-`;
-
-export default Button
+export default ButtonLink;
