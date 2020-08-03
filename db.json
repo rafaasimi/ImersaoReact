@@ -4,7 +4,7 @@
       "id": 2,
       "titulo": "Alura",
       "descricao": "Canal da Alura Cursos Online",
-      "cor": "#F9F9F9"
+      "cor": "#2A7AE4"
     },
     {
       "id": 3,
@@ -16,7 +16,7 @@
       "id": 4,
       "titulo": "Curso em Video",
       "descricao": "Uma categoria dos filmes de desenho infantil.",
-      "cor": "#9cd33b"
+      "cor": "#2222FE"
     }
   ],
   "videos": [
@@ -47,8 +47,8 @@
     {
       "id": 6,
       "categoriaId": 2,
-      "titulo": "Imersão GameDev Live #2",
-      "url": "https://youtu.be/vmN3lBVhu74"
+      "titulo": "Conheça o canal da Alura!",
+      "url": "https://youtu.be/k7IPr-rhrPE"
     },
     {
       "id": 7,

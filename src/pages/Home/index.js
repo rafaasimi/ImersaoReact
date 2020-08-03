@@ -29,7 +29,7 @@ function Home() {
               <BannerMain
                 videoTitle={dadosIniciais[0].videos[0].titulo}
                 url={dadosIniciais[0].videos[0].url}
-                videoDescription="Aprenda a ser mais produtivo utilizando algumas dicas e extensões disponibilizadas pelo Filipe Deschamps para o Visual Studio Code, podendo ser utilizada para a codificação em qualquer linguagem. "
+                videoDescription="Nesse #HipstersPontoDicas, o Gabs Ferreira dá algumas dicas simples que você pode seguir para aumentar as suas chances de ser chamada (o) para entrevistas de tecnologia. "
               />
               <Carousel
                 ignoreFirstVideo

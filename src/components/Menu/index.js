@@ -11,7 +11,7 @@ function Menu () {
                 <img className="Logo" src={Logo} alt="Logo RafaFlix" />
             </Link>
             <Button as={Link} className="ButtonLink" to="/cadastro/video">
-                Novo Link
+                Novo Vídeo
             </Button>
         </nav>
     )

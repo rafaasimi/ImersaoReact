@@ -7,7 +7,7 @@
 </p>
 
 <h3>🔖 Descrição</h3>
-<p>Criação do AluraFlix, app web utilizando React na semana da #ImersãoReact da Alura.<p>
+<p>Criação do RafaFlix, app web utilizando React na semana da #ImersãoReact da Alura.<p>
 
 
 <h3>🚀 Tecnologias</h3>
